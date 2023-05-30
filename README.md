@@ -24,3 +24,5 @@
 ## Exercises
 
 * <a href="https://github.com/Mohammadrezaasan/Machine_learning/tree/main/Exercises/python_one_exercises">Exercises python number : 1[filoger]</a>
+
+* <a href="https://github.com/Mohammadrezaasan/Machine_learning/blob/main/Exercises/NUMPY_Exercises/numpy_001_EX.ipynb">Exercises python(NUMPY) number : 1[Myself]</a>
