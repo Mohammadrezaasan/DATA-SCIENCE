@@ -20,7 +20,7 @@
 
 
 * NUMPY
-
+* PANDAS
 ## Exercises
 
 * <a href="https://github.com/Mohammadrezaasan/Machine_learning/tree/main/Exercises/python_one_exercises">Exercises python number : 1[filoger]</a>
