@@ -2,7 +2,10 @@
 
   
 # <p align="center">Daily exercises and lessons.</p>
+
 ## <p align="center">Codes for each session : <a href="https://github.com/MasoudKaviani/filoger/tree/main">Here</a> </p>
+
+## <p align="center">All course exercises : <a href="https://github.com/Mohammadrezaasan/DATA-SCIENCE/tree/main/all_exrisizes">Here</a> </p>
 
 ## Contents
 * [Headlines](#headlines)
