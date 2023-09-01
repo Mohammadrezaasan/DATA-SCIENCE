@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Mohammadrezaasan/Machine_learning/assets/108104864/2fba8234-3720-4908-a2d0-8a044c4d45fa" width="1000" height="400"/>
+<p align="center"><img src="https://github.com/Mohammadrezaasan/DATA-SCIENCE/assets/108104864/9822f0d7-409c-401b-aa9c-3e9508ae4fd5" width="1000" height="400"/>
 
   
 # <p align="center">Daily exercises and lessons.</p>
