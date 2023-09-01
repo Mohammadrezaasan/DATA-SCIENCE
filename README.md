@@ -15,8 +15,7 @@
 
 * Python
 * Machine learning
-* Data science
-
+* Algorithms
 ## Libraries used
 
 
